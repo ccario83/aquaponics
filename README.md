@@ -1,6 +1,6 @@
-# aquaponics
+# Aquaponics Fun
 
-This repo contains control software for an Adafruit Feather RP2040, which is used to automate an aquaponics system. The goal of this projects is to use nitrate rich water from a fish aquarium to fertilize plants in a tank above the aquarium, and then to return the purified water back to the fish tank.
+This repo contains control software for an Adafruit Feather RP2040, which is used to automate an aquaponics system. The goal of this project is to use nitrate rich water from a fish aquarium to fertilize plants in a tank above the aquarium, and then to return the purified water back to the fish tank. Its a complete and self contained ecosystem (minus the fish-feeding part)!
 
 Here's the setup:
 
