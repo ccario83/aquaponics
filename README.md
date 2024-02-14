@@ -19,5 +19,5 @@ The repo also includes a custom STL file for a 3D printed tank water strainer, w
 
 Some bonus videos/photos
 1. [Custom 3D printed strainer](strainer.png)
-2. [The system in action](in_action.mp4)
+2. [The system in action](in_action_small.mov)
 3. [Happy fish!](happy_fish.mp4)
